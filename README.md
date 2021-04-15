@@ -24,4 +24,4 @@ The subsequent contribution step is described in `2nd_contribution`.
   * Please submit your final notebook/script by email to one of the mentors.
 
 Please feel free to ask any questions you have on [Gitter](https://gitter.im/mozilla-datascience-outreach/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link). 
-# outreachy-firefod
+# outreachy-firefox
